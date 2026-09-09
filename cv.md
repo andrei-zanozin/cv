@@ -26,9 +26,9 @@ Additional areas where I can help include interviewing, talent selection, staffi
 
 I believe that effective and sustainable enterprise software solutions cannot be created solely through good programming. They require openness, engagement, and effective collaboration between people in different roles. That is why one of my priorities is building engineering systems where technology, delivery, people, and business goals work together.
 
-Supporting evidence and artifacts for the achievements below are available upon request.
-
 ## Professional experience
+
+*Supporting evidence and artifacts for the achievements below are available upon request.*
 
 ### Lead Java Software Engineer (EPAM, Bosch)
 
