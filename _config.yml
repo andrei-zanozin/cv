@@ -1,0 +1,8 @@
+title: Andrei Zanozin — Lead Java Software Engineer
+description: Professional CV of Andrei Zanozin
+url: https://andrei-zanozin.github.io
+baseurl: /resume
+
+exclude:
+  - evidence
+  - .DS_Store
