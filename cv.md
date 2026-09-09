@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Andrei Zanozin — Lead Java Software Engineer
+title: Andrei Zanozin — Lead Software Engineer
 permalink: /
 ---
 
-# Andrei Zanozin — Lead Java Software Engineer
+# Andrei Zanozin — Lead Software Engineer
 
 *Málaga, Andalusia, Spain*
 
