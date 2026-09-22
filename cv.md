@@ -127,6 +127,11 @@ Implemented features in a desktop Java application under supervision before prog
 Saratov State Technical University — Engineer’s degree  
 *Sep 2008 – May 2013 — Saratov, Russia*
 
+## Certifications
+
+Claude Certified Architect – Foundations ([link](https://www.credly.com/badges/24369973-0243-44c8-9af8-f9f4fba9c4cf)) — Anthropic  
+*Issued 22 Sep 2026*
+
 ## Skills
 
 | Area | Skills |
